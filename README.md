@@ -8,7 +8,7 @@ The dataset used for this project can be found [here](http://archive.ics.uci.edu
 ## Files
 The following files are provided for this project:
 
-1. CodeBook.md: This file describes the variables, data, and work done to clean up the data
+1. codebook.md: This file describes the variables, data, and work done to clean up the data
 2. run_analysis.R: This is the R script that performs the objectives for this project (outlined below):
    - Merges the training and the test sets to create one data set.
    - Extracts only the measurements on the mean and standard deviation for each measurement.
